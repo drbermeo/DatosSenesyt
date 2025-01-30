@@ -1,4 +1,4 @@
-# Manual de Usuario: Automatización de Consulta de Títulos y Certificaciones en Senescyt
+Automatización de Consulta de Títulos y Certificaciones en Senescyt
 
 ## Introducción  
 Este flujo automatiza la consulta de información académica y certificaciones de un ciudadano en el portal de **Senescyt** (Ecuador) utilizando **Power Automate Desktop**. A continuación, se detalla su funcionamiento:
